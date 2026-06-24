@@ -1,6 +1,6 @@
 # Recaf Discord RPC
 
-A [Recaf](https://github.com/Col-E/Recaf) plugin that adds **Discord Rich Presence**, showing your friends exactly what you're reverse‑engineering — the JAR you opened, the class you're reading, and the type of class it is.
+A [Recaf](https://github.com/Col-E/Recaf) plugin that adds **Discord Rich Presence**, showing your friends exactly what you're reverse‑engineering - the JAR you opened, the class you're reading, and the type of class it is.
 
 <p align="center">
   <img src="assets/1.png" alt="Recaf Discord Rich Presence — browsing a workspace" width="520">
