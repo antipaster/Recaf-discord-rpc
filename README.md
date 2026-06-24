@@ -3,7 +3,7 @@
 A [Recaf](https://github.com/Col-E/Recaf) plugin that adds **Discord Rich Presence**, showing your friends exactly what you're reverse‑engineering - the JAR you opened, the class you're reading, and the type of class it is.
 
 <p align="center">
-  <img src="assets/1.png" alt="Recaf Discord Rich Presence — browsing a workspace" width="520">
+  <img src="assets/1.png" alt="Recaf Discord Rich Presence - browsing a workspace" width="520">
 </p>
 
 The presence updates live as you switch tabs, and an elapsed timer tracks your session from the moment Recaf launched.
@@ -17,7 +17,7 @@ The presence reflects whatever you're currently looking at:
 
 | State                         | Details                              | Sub‑text                                        |
 | ------------------------------- | -------------------------------------- | -------------------------------------------------- |
-| **Idle** — no workspace open | `Idle`                               | `No workspace open`                              |
+| **Idle** - no workspace open | `Idle`                               | `No workspace open`                              |
 | **Workspace open**            | `Browsing fabric-loader-0.16.14.jar` | `712 classes`                                    |
 | **Viewing a class**           | `Viewing AppletMain`                 | `net.fabricmc.loader.impl.game.minecraft.applet` |
 | **Editing in the assembler**  | `Editing AppletMain`                 | `Bytecode assembler` / `Assembler · <member>`   |
@@ -61,7 +61,7 @@ The plugin jar is written to `build/libs/discord-rpc-1.0.0.jar`. Drop it into yo
 | Linux   | `~/.config/Recaf/plugins`                     |
 | macOS   | `~/Library/Application Support/Recaf/plugins` |
 
-Then start Recaf with Discord running. That's it — it's ready to use out of the box.
+Then start Recaf with Discord running. That's it - it's ready to use out of the box.
 
 > You can also launch Recaf with the plugin already loaded straight from this project:
 >
